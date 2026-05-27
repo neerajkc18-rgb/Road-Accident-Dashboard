@@ -59,6 +59,8 @@ https://github.com/neerajkc18-rgb/Road-Accident-Dashboard/blob/main/SnapShot%20o
 Conclusion This dashboard enables organizations and authorities to better understand accident patterns and improve road safety planning through data-driven insights and interactive visual analytics.
 
 This dashboard enables organizations and authorities to better understand accident patterns and improve road safety planning through data-driven insights and interactive visual analytics.
+
+
 Example : DashBoard (https://github.com/neerajkc18-rgb/Road-Accident-Dashboard/blob/main/SnapShot%20of%20Road%20Accident%20Dash.png)
 
 
